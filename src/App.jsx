@@ -31,9 +31,10 @@ const App = () => {
       <Route path='/contact' element={<Contacts />}/>
       
       </Routes>
-      
       <Footer />
       </div>
+     
+
       </>
     
   )
